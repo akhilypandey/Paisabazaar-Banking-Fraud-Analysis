@@ -57,3 +57,26 @@ The dataset includes:
 ---
 
 ## 📁 Project Structure
+Credit-Score-EDA/
+│
+├── data/
+│ └── dataset.csv
+│
+├── notebooks/
+│ └── eda.ipynb
+│
+├── images/
+│ └── charts.png
+│
+├── README.md
+
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how data-driven insights can improve financial risk management and customer segmentation.
+
+---
+
+⭐ If you found this useful, consider giving it a star!
